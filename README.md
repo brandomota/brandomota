@@ -1,4 +1,4 @@
-### Hi there 👋 ~~(General Kenobi!)~~, I'm Brando Mota
+### Hello there 👋 ~~(General Kenobi!)~~, I'm Brando Mota
 :computer: _Software Developer From Manaus, Brazil. Currently working and living in Manaus._
 
 
