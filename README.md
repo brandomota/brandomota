@@ -61,7 +61,7 @@
 ### Leaning 🌱
 <p float="left">
 <img src="https://img.shields.io/badge/-Go-2076F8?style=flat&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/-reactJS-2076F8?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/-ReactJS-2076F8?style=flat&logo=react&logoColor=white">
 </p>
 
 ---
@@ -72,7 +72,19 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/b
 
 ---
 
+# Contact
+### you can contact me in:
+<p float="left">
+<a href="https://www.linkedin.com/in/brando-mota/">
+<img src="https://img.shields.io/badge/-linkedin-white?style=flat&logo=linkedin&logoColor=blue">
+</a>
+<a href="mailto://bmota45@gmail.com">
+<img src="https://img.shields.io/badge/-gmail-white?style=flat&logo=gmail&logoColor=red">
+</a>
+</p>
 
+
+---
 <!--
 **brandomota/brandomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
