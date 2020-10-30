@@ -37,11 +37,13 @@
 </p>
 
 ## Databases
+<p float="left">
 <img src="https://img.shields.io/badge/-postgresql-fff?style=flat&logo=postgresql&logoColor=blue">
 <img src="https://img.shields.io/badge/-oracle%20PL/SQL-fff?style=flat&logo=oracle&logoColor=red">
 <img src="https://img.shields.io/badge/-mysql-fff?style=flat&logo=mysql">
 <img src="https://img.shields.io/badge/-mongoDB-fff?style=flat&logo=mongoDB">
 <img src="https://img.shields.io/badge/-MS%20SQL%20Server-2076F8?style=flat&logo=microsoft-sql-server">
+</p>
 
 ### Others
 <p float="left">
