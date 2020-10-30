@@ -1,5 +1,17 @@
-### Hi there 👋, I'm Brando Mota
-:computer: _Software Developer From Manaus, Brazil. Currently working and living in Manaus.
+### Hi there 👋 ~~(General Kenobi!)~~, I'm Brando Mota
+:computer: _Software Developer From Manaus, Brazil. Currently working and living in Manaus._
+
+
+## Tech Stacks
+
+### Languages
+
+
+<p float="left">
+<img src="http://img.shields.io/badge/-Go-2076F8?style=flat&logo=go&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+<img src="http://img.shields.io/badge/-Python-F89820?style=flat&logo=python&logoColor=white">
+</p>
 
 ---
 
