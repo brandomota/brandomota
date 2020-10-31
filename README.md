@@ -50,7 +50,6 @@
 <img src="https://img.shields.io/badge/-elasticsearch-yellow?style=flat&logo=elasticsearch">
 <img src="https://img.shields.io/badge/-rabbitmq-red?style=flat&logo=rabbitmq">
 <img src="https://img.shields.io/badge/-mosquito-2076F8?style=flat&logo=eclipse-mosquitto">
-<img src="https://img.shields.io/badge/-mosquito-2076F8?style=flat&logo=eclipse-mosquitto">
 <img src="https://img.shields.io/badge/-arduino-white?style=flat&logo=arduino">
 <img src="https://img.shields.io/badge/-raspberry-blue?style=flat&logo=raspberry-pi">
 <img src="https://img.shields.io/badge/-linux-white?style=flat&logo=linux">
