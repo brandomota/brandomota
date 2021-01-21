@@ -67,9 +67,12 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brandomota&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandomota)](https://github.com/brandomota/github-readme-stats)
+
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/brandomota)
 
+---
 ---
 
 # Contact
