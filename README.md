@@ -18,6 +18,7 @@
 ### Frameworks
 <p float="left">
 <img src="https://img.shields.io/badge/-Spring-03fc0b?style=flat&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/-Quarkus-2076F8?style=flat&logo=quarkus&logoColor=white">
 <img src="https://img.shields.io/badge/-Angular-2076F8?style=flat&logo=angular&logoColor=red">
 <img src="https://img.shields.io/badge/-Django-02a307?style=flat&logo=django&logoColor=red">
 <img src="https://img.shields.io/badge/-Express-02a307?style=flat&logo=express&logoColor=red">
