@@ -71,7 +71,9 @@
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/brandomota)
 
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandomota)](https://github.com/brandomota/github-readme-stats)
+
 ---
 
 # Contact
