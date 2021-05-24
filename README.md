@@ -56,12 +56,14 @@
 <img src="https://img.shields.io/badge/-linux-white?style=flat&logo=linux">
 <img src="https://img.shields.io/badge/-openCV-white?style=flat&logo=opencv">
 <img src="https://img.shields.io/badge/-arduino-white?style=flat&logo=arduino">
+<img src="https://img.shields.io/badge/-puppeteer-white?logo=puppeteer">
 </p>
 
 ### Leaning 🌱
 <p float="left">
 <img src="https://img.shields.io/badge/-Go-2076F8?style=flat&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/-ReactJS-2076F8?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/-robot--framework-blue?logo=robot-framework">
 </p>
 
 ---
