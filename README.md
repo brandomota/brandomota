@@ -56,7 +56,6 @@
 <img src="https://img.shields.io/badge/-raspberry-blue?style=flat&logo=raspberry-pi">
 <img src="https://img.shields.io/badge/-linux-white?style=flat&logo=linux">
 <img src="https://img.shields.io/badge/-openCV-white?style=flat&logo=opencv">
-<img src="https://img.shields.io/badge/-arduino-white?style=flat&logo=arduino">
 <img src="https://img.shields.io/badge/-puppeteer-white?logo=puppeteer">
 </p>
 
