@@ -1,5 +1,5 @@
 ### Hello there 👋 ~~(General Kenobi!)~~, I'm Brando Mota
-:computer: _Software Developer From Manaus, Brazil. Currently working and living in Manaus._
+:computer: _Senior Software Developer From Manaus, Brazil. Currently working and living in Manaus._
 
 
 ## Tech Stacks
@@ -64,7 +64,14 @@
 <img src="https://img.shields.io/badge/-Go-2076F8?style=flat&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/-ReactJS-2076F8?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-robot--framework-blue?logo=robot-framework">
+<img src="https://img.shields.io/badge/-ruby-red?logo=ruby&logoColor=white">  
 </p>
+
+### ⚡ Fun facts
+ - I'm disabled ♿ (yes, i use a wheelchair, and yes, i occasionally hit people by accident, sorry 😁)
+ - I learned to play guitar again, because the isolation caused by COVID pandemic
+ - I have a cat! 🐈
+ - I love motorsports, and caps, and caps from motorsports teams 🏎
 
 ---
 ### My Stats
