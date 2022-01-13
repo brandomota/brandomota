@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/-jenkins-a1a60a?style=flat&logo=jenkins">
 <img src="https://img.shields.io/badge/-gitlab-fff?style=flat&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/-travis-fff?style=flat&logo=travis&logoColor=white">
+<img src="https://img.shields.io/badge/-circle%20CI-fff?style=flat&logo=circleCi&logoColor=black">
 <img src="https://img.shields.io/badge/-google%20cloud%20plataform-fff?style=flat&logo=google-cloud">
 </p>
 
