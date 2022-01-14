@@ -64,7 +64,8 @@
 <img src="https://img.shields.io/badge/-Go-2076F8?style=flat&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/-ReactJS-2076F8?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-robot--framework-blue?logo=robot-framework">
-<img src="https://img.shields.io/badge/-ruby-red?logo=ruby&logoColor=white">  
+<img src="https://img.shields.io/badge/-ruby-red?logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/-Sinatra-white?logo=ruby%20sinatra&style=flat&color=white&logoColor=black">  
 </p>
 
 ### ⚡ Fun facts
