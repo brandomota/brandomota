@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/-Typescript-2076F8?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML-2076F8?style=flat&logo=HTML5&logoColor=red">
 <img src="https://img.shields.io/badge/-CSS-e303fc?style=flat&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/-Go-2076F8?style=flat&logo=go&logoColor=white">
 </p>
 
 ### Frameworks
@@ -61,7 +62,6 @@
 
 ### Leaning 🌱
 <p float="left">
-<img src="https://img.shields.io/badge/-Go-2076F8?style=flat&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/-ReactJS-2076F8?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-robot--framework-blue?logo=robot-framework">
 <img src="https://img.shields.io/badge/-ruby-red?logo=ruby&logoColor=white">
@@ -71,8 +71,9 @@
 ### ⚡ Fun facts
  - I'm disabled ♿ (yes, i use a wheelchair, and yes, i occasionally hit people by accident, sorry 😁)
  - I learned to play guitar again, because the isolation caused by COVID pandemic
- - I have a cat! 🐈
+ - I have ~~a cat~~ two cats!  🐈 🐈
  - I love motorsports, and caps, and caps from motorsports teams 🏎
+ - 
 
 ---
 ### My Stats
