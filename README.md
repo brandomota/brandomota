@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/-HTML-2076F8?style=flat&logo=HTML5&logoColor=red">
 <img src="https://img.shields.io/badge/-CSS-e303fc?style=flat&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/-Go-2076F8?style=flat&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/-Ruby-white?style=flat&logo=ruby&logoColor=red">
 </p>
 
 ### Frameworks
@@ -64,8 +65,9 @@
 <p float="left">
 <img src="https://img.shields.io/badge/-ReactJS-2076F8?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-robot--framework-blue?logo=robot-framework">
-<img src="https://img.shields.io/badge/-ruby-red?logo=ruby&logoColor=white">
-<img src="https://img.shields.io/badge/-Sinatra-white?logo=ruby%20sinatra&style=flat&color=white&logoColor=black">  
+<img src="https://img.shields.io/badge/-Sinatra-white?logo=ruby%20sinatra&style=flat&color=white&logoColor=black">
+<img src="https://img.shields.io/badge/-aws-white?logo=amazon%20aws&style=flat&color=white&logoColor=black">  
+ 
 </p>
 
 ### ⚡ Fun facts
@@ -73,7 +75,7 @@
  - I learned to play guitar again, because the isolation caused by COVID pandemic
  - I have ~~a cat~~ two cats!  🐈 🐈
  - I love motorsports, and caps, and caps from motorsports teams 🏎
- - 
+ - I learned to love wine 🍷
 
 ---
 ### My Stats
