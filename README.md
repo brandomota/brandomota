@@ -1,5 +1,5 @@
 ### Hello there 👋 ~~(General Kenobi!)~~, I'm Brando Mota
-:computer: _Senior Software Developer From Manaus, Brazil. Currently working and living in Manaus._
+:computer: _Senior Software Developer / Tech Lead From Manaus, Brazil. Currently working and living in Manaus._
 
 
 ## Tech Stacks
@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/-travis-fff?style=flat&logo=travis&logoColor=white">
 <img src="https://img.shields.io/badge/-circle%20CI-fff?style=flat&logo=circleCi&logoColor=black">
 <img src="https://img.shields.io/badge/-google%20cloud%20plataform-fff?style=flat&logo=google-cloud">
+<img src="https://img.shields.io/badge/-aws-white?logo=amazon%20aws&style=flat&color=white&logoColor=black"> 
 </p>
 
 ## Databases
@@ -65,8 +66,7 @@
 <p float="left">
 <img src="https://img.shields.io/badge/-ReactJS-2076F8?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-robot--framework-blue?logo=robot-framework">
-<img src="https://img.shields.io/badge/-Sinatra-white?logo=ruby%20sinatra&style=flat&color=white&logoColor=black">
-<img src="https://img.shields.io/badge/-aws-white?logo=amazon%20aws&style=flat&color=white&logoColor=black">  
+<img src="https://img.shields.io/badge/-Sinatra-white?logo=ruby%20sinatra&style=flat&color=white&logoColor=black"> 
  
 </p>
 
