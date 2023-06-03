@@ -23,9 +23,10 @@
 <img src="https://img.shields.io/badge/-Quarkus-2076F8?style=flat&logo=quarkus&logoColor=white">
 <img src="https://img.shields.io/badge/-Angular-2076F8?style=flat&logo=angular&logoColor=red">
 <img src="https://img.shields.io/badge/-Django-02a307?style=flat&logo=django&logoColor=red">
-<img src="https://img.shields.io/badge/-Express-02a307?style=flat&logo=express&logoColor=red">
+<img src="https://img.shields.io/badge/-Express-02a307?style=flat&logo=express&logoColor=black">
 <img src="https://img.shields.io/badge/-HapiJS-718072?style=flat&logo=hapi&logoColor=red">
-<img src="https://img.shields.io/badge/-.Net-e303fc?style=flat&logo=.net&logoColor=red">
+<img src="https://img.shields.io/badge/-.Net-e303fc?style=flat&logo=.net&logoColor=black">
+<img src="https://img.shields.io/badge/-Sinatra-white?logo=ruby%20sinatra&style=flat&color=white&logoColor=black"> 
 </p>
 
 ## Infrastructure
@@ -34,8 +35,8 @@
 <img src="https://img.shields.io/badge/-kubernetes-2076F8?style=flat&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/-rancher-242f9e?style=flat&logo=rancher&logoColor=white">
 <img src="https://img.shields.io/badge/-jenkins-a1a60a?style=flat&logo=jenkins">
-<img src="https://img.shields.io/badge/-gitlab-fff?style=flat&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/-travis-fff?style=flat&logo=travis&logoColor=white">
+<img src="https://img.shields.io/badge/-gitlab-fff?style=flat&logo=gitlab&logoColor=orange">
+<img src="https://img.shields.io/badge/-travis-fff?style=flat&logo=travis">
 <img src="https://img.shields.io/badge/-circle%20CI-fff?style=flat&logo=circleCi&logoColor=black">
 <img src="https://img.shields.io/badge/-google%20cloud%20plataform-fff?style=flat&logo=google-cloud">
 <img src="https://img.shields.io/badge/-aws-white?logo=amazon%20aws&style=flat&color=white&logoColor=black"> 
@@ -48,6 +49,7 @@
 <img src="https://img.shields.io/badge/-mysql-fff?style=flat&logo=mysql">
 <img src="https://img.shields.io/badge/-mongoDB-fff?style=flat&logo=mongoDB">
 <img src="https://img.shields.io/badge/-MS%20SQL%20Server-2076F8?style=flat&logo=microsoft-sql-server">
+<img src="https://img.shields.io/badge/-DynamoDB-white?style=flat&logo=amazondynamodb&logoColor=blue">
 </p>
 
 ### Others
@@ -58,7 +60,7 @@
 <img src="https://img.shields.io/badge/-arduino-white?style=flat&logo=arduino">
 <img src="https://img.shields.io/badge/-raspberry-blue?style=flat&logo=raspberry-pi">
 <img src="https://img.shields.io/badge/-linux-white?style=flat&logo=linux">
-<img src="https://img.shields.io/badge/-openCV-white?style=flat&logo=opencv">
+<img src="https://img.shields.io/badge/-openCV-white?style=flat&logo=opencv&logoColor=black">
 <img src="https://img.shields.io/badge/-puppeteer-white?logo=puppeteer">
 </p>
 
@@ -66,16 +68,20 @@
 <p float="left">
 <img src="https://img.shields.io/badge/-ReactJS-2076F8?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-robot--framework-blue?logo=robot-framework">
-<img src="https://img.shields.io/badge/-Sinatra-white?logo=ruby%20sinatra&style=flat&color=white&logoColor=black"> 
+<img src="https://img.shields.io/badge/-lua-white?style=flat&logo=lua&logoColor=black">
+ 
  
 </p>
 
 ### ⚡ Fun facts
  - I'm disabled ♿ (yes, i use a wheelchair, and yes, i occasionally hit people by accident, sorry 😁)
  - I learned to play guitar again, because the isolation caused by COVID pandemic
- - I have ~~a cat~~ two cats!  🐈 🐈
+ - I have ~~a cat~~ ~~two cats!  🐈 🐈~~ one cat 🐈 (RIP Abdur...)
  - I love motorsports, and caps, and caps from motorsports teams 🏎
  - I learned to love wine 🍷
+ - I don't have a band yet, i know...
+ - I Love Sci-fi books, films, etc
+ - I have 3 guitars, 1 acoustic guitar and 1 cavaquinho (i'm brazillian, is required hahaha)
 
 ---
 ### My Stats
