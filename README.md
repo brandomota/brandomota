@@ -76,7 +76,7 @@
 ### ⚡ Fun facts
  - I'm disabled ♿ (yes, i use a wheelchair, and yes, i occasionally hit people by accident, sorry 😁)
  - I learned to play guitar again, because the isolation caused by COVID pandemic
- - I have ~~a cat~~ ~~two cats!  🐈 🐈~~ one cat 🐈 (RIP Abdur...)
+ - I have ~~a cat two cats!~~ one cat 🐈 (RIP Abdur...)
  - I love motorsports, and caps, and caps from motorsports teams 🏎
  - I learned to love wine 🍷
  - I don't have a band yet, i know...
