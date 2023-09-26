@@ -39,7 +39,9 @@
 <img src="https://img.shields.io/badge/-travis-fff?style=flat&logo=travis">
 <img src="https://img.shields.io/badge/-circle%20CI-fff?style=flat&logo=circleCi&logoColor=black">
 <img src="https://img.shields.io/badge/-google%20cloud%20plataform-fff?style=flat&logo=google-cloud">
-<img src="https://img.shields.io/badge/-aws-white?logo=amazon%20aws&style=flat&color=white&logoColor=black"> 
+<img src="https://img.shields.io/badge/-aws-white?logo=amazon%20aws&style=flat&color=white&logoColor=black">
+<img src="https://img.shields.io/badge/-terraform-blue?logo=terraform&style=flat&color=white&logoColor=blue"> 
+
 </p>
 
 ## Databases
