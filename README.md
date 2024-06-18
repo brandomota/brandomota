@@ -1,5 +1,5 @@
 ### Hello there 👋 ~~(General Kenobi!)~~, I'm Brando Mota
-:computer: Software Specialist From Manaus, Brazil. Currently working and living in Manaus._
+_:computer: Software Specialist From Manaus, Brazil. Currently working and living in Manaus._
 
 
 ## Tech Stacks
