@@ -64,6 +64,8 @@
 <img src="https://img.shields.io/badge/-linux-white?style=flat&logo=linux">
 <img src="https://img.shields.io/badge/-openCV-white?style=flat&logo=opencv&logoColor=black">
 <img src="https://img.shields.io/badge/-puppeteer-white?logo=puppeteer">
+ <img src="https://img.shields.io/badge/-camunda%20BPMN-white?logo=camunda">
+
 </p>
 
 ### Leaning 🌱
