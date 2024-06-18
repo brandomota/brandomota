@@ -73,6 +73,8 @@ _:computer: Sr System Analist From Manaus, Brazil. Currently working and living 
 <img src="https://img.shields.io/badge/-ReactJS-2076F8?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-robot--framework-blue?logo=robot-framework">
 <img src="https://img.shields.io/badge/-lua-white?style=flat&logo=lua&logoColor=black">
+<img src="https://img.shields.io/badge/-nestJS-white?style=flat&logo=NestJS&logoColor=red">
+
  
  
 </p>
