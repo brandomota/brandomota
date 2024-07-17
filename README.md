@@ -1,5 +1,5 @@
 ### Hello there 👋 ~~(General Kenobi!)~~, I'm Brando Mota
-_:computer: Sr System Analist From Manaus, Brazil. Currently working and living in Manaus._
+_:computer: Software Specialist From Manaus, Brazil. Currently working and living in Manaus._
 
 
 ## Tech Stacks
@@ -85,7 +85,7 @@ _:computer: Sr System Analist From Manaus, Brazil. Currently working and living 
  - I have ~~a cat two cats!~~ one cat 🐈 (RIP Abdur...)
  - I love motorsports, and caps, and caps from motorsports teams 🏎
  - I learned to love wine 🍷
- - ~~I don't have a band yet, i know...~~ i play guitar in a brazillian horror-punk band called Aberrações H.P.
+ - ~~I don't have a band yet, i know...~~ i play guitar in a brazillian horror-punk band called Aberrações H.P. 🧟
  - I Love Sci-fi books, films, etc
  - I have ~~3~~ 5 guitars, 1 acoustic guitar, 1 bass guitar and 1 cavaquinho (i'm brazillian, is required hahaha)
 
